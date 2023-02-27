@@ -8,4 +8,4 @@ Technologies Used: Python (numpy, pandas, matplotlib), OOP, Pygame, Git, Gitlab
 Description: How changing voting systems modifies the outcome? What if we add multiple tours? How can we modyfiy our votes and rankings to have the best outcome for us? 
 Nash equilibrium, voting rules & distributing votes (drawing samples from diffrent distributions)
 
-Role: Scrum master, developer
+Role: Scrum master, developper
